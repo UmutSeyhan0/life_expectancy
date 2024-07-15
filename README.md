@@ -1,6 +1,16 @@
-#Life Expectancy Calculator
+# life_expectancy
 
-This project is a Flutter application that allows users to calculate their estimated life expectancy by entering various health and lifestyle data.
-Usage
+A new Flutter project.
 
-When the application is opened, users will be prompted to enter various health and lifestyle information. Once this information is entered, the application will calculate and display the estimated life expectancy.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
