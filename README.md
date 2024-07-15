@@ -1,4 +1,4 @@
-Life Expectancy Calculator
+#Life Expectancy Calculator
 
 This project is a Flutter application that allows users to calculate their estimated life expectancy by entering various health and lifestyle data.
 Usage
